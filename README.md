@@ -1,0 +1,1 @@
+This is Mercifex's first git project!
